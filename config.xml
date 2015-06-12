@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="unifyingcloud.ideaposter.ehomophones" versionCode="30" version="3.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="unifyingcloud.ideaposter.ephrasalverbs" versionCode="30" version="3.0.0">
 
     <!-- versionCode is optional and Android only -->
 
-    <name>English Homophones</name>
+    <name>English Phrasal verbs</name>
 
     <description>
-        English Homophones
+        English Phrasal Verbs
     </description>
 
     <author href="https://www.unifyingcloud.com" email="jonatane.cisneros@gmail.com">
